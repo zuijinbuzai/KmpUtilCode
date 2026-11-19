@@ -1,0 +1,6 @@
+KmpUtilCode
+Copyright 2026 zuijinbuzai
+
+Inspired by the utility organization and documentation approach of Blankj/AndroidUtilCode.
+This is an independent Kotlin Multiplatform implementation and is not affiliated with Blankj.
+Third-party dependencies retain their own licenses. See docs/third-party.md.

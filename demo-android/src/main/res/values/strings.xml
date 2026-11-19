@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KmpUtilCode</string>
+    <string name="sample_count">%1$d 个可运行示例</string>
+    <string name="run_failed">运行失败：%1$s</string>
+</resources>
